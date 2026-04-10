@@ -1,0 +1,14 @@
+[
+{
+"id":1,
+"name":"Alex",
+"skill":"Web Development",
+"avatar":"https://randomuser.me/api/portraits/men/32.jpg"
+},
+{
+"id":2,
+"name":"Maria",
+"skill":"Photography",
+"avatar":"https://randomuser.me/api/portraits/women/44.jpg"
+}
+]

@@ -1,0 +1,26 @@
+[
+{
+"id":1,
+"title":"Web Development",
+"description":"Learn HTML, CSS, JavaScript and React",
+"image":"https://images.unsplash.com/photo-1461749280684-dccba630e2f6"
+},
+{
+"id":2,
+"title":"Photography",
+"description":"Professional photography techniques",
+"image":"https://images.unsplash.com/photo-1502920917128-1aa500764cbd"
+},
+{
+"id":3,
+"title":"Graphic Design",
+"description":"Photoshop and Illustrator design skills",
+"image":"https://images.unsplash.com/photo-1517694712202-14dd9538aa97"
+},
+{
+"id":4,
+"title":"Video Editing",
+"description":"Premiere Pro and After Effects",
+"image":"https://images.unsplash.com/photo-1492724441997-5dc865305da7"
+}
+]

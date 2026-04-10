@@ -1,0 +1,75 @@
+.navbar{
+display:flex;
+justify-content:space-between;
+padding:20px 40px;
+background:rgba(0,0,0,0.4);
+backdrop-filter:blur(10px);
+}
+
+.nav-links a{
+margin-left:20px;
+text-decoration:none;
+color:white;
+font-weight:bold;
+}
+
+.hero{
+display:flex;
+align-items:center;
+justify-content:space-between;
+padding:80px;
+}
+
+.hero img{
+width:450px;
+border-radius:15px;
+}
+
+.primary-btn{
+background:#00e5ff;
+border:none;
+padding:12px 20px;
+border-radius:6px;
+cursor:pointer;
+}
+
+.card{
+background:rgba(255,255,255,0.1);
+padding:20px;
+border-radius:10px;
+backdrop-filter:blur(10px);
+transition:0.3s;
+}
+
+.card:hover{
+transform:translateY(-10px);
+}
+
+.footer{
+text-align:center;
+padding:30px;
+background:black;
+}
+
+.card{
+background:rgba(255,255,255,0.08);
+padding:20px;
+border-radius:12px;
+backdrop-filter:blur(10px);
+
+transition:0.4s;
+transform:translateY(0);
+}
+
+.card img{
+width:100%;
+height:180px;
+object-fit:cover;
+border-radius:10px;
+margin-bottom:10px;
+}
+
+.card:hover{
+transform:translateY(-12px) scale(1.03);
+box-shadow:0 15px 35px rgba(0,0,0,0.6);
+}
